@@ -132,7 +132,7 @@ input[type=text], select,textarea {
     border-radius: 10px;
     border-color: antiquewhite;
     cursor: pointer;
-   
+   display:flex;
   }
   #abc{
     float: left;
@@ -143,6 +143,7 @@ input[type=text], select,textarea {
     float: right;
     border-radius: 30px;
     animation: fadin 1s 1;
+	  display:flex;
   }
   section h1:hover{
     color: black;
